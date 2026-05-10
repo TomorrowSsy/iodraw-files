@@ -1,0 +1,118 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36" version="24.7.17">
+  <diagram name="第 1 页" id="d1_EFJjKUETWtZjdFANf">
+    <mxGraphModel dx="954" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="0zqGJXvwJyC6_0cyw1WQ-32" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="70" y="80" width="650" height="680" as="geometry" />
+        </mxCell>
+        <mxCell id="0zqGJXvwJyC6_0cyw1WQ-2" value="应聘人员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
+          <mxGeometry x="170" y="220" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0zqGJXvwJyC6_0cyw1WQ-3" value="招聘人员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
+          <mxGeometry x="170" y="500" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0zqGJXvwJyC6_0cyw1WQ-5" value="注册" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="410" y="310" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="0zqGJXvwJyC6_0cyw1WQ-6" value="登录" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="410" y="385" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="0zqGJXvwJyC6_0cyw1WQ-7" value="个人信息管理" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="410" y="450" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="0zqGJXvwJyC6_0cyw1WQ-8" value="简历管理" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="410" y="100" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="0zqGJXvwJyC6_0cyw1WQ-9" value="应聘管理" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="410" y="170" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="0zqGJXvwJyC6_0cyw1WQ-10" value="在线面试" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="410" y="240" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="0zqGJXvwJyC6_0cyw1WQ-12" value="招聘管理" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="410" y="520" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="0zqGJXvwJyC6_0cyw1WQ-13" value="面试管理" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="410" y="590" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="0zqGJXvwJyC6_0cyw1WQ-14" value="数据统计分析" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="410" y="660" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="0zqGJXvwJyC6_0cyw1WQ-18" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="240" as="sourcePoint" />
+            <mxPoint x="399" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0zqGJXvwJyC6_0cyw1WQ-19" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="250" as="sourcePoint" />
+            <mxPoint x="390" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0zqGJXvwJyC6_0cyw1WQ-20" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="270" as="sourcePoint" />
+            <mxPoint x="400" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0zqGJXvwJyC6_0cyw1WQ-21" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="280" as="sourcePoint" />
+            <mxPoint x="400" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0zqGJXvwJyC6_0cyw1WQ-22" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="300" as="sourcePoint" />
+            <mxPoint x="400" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0zqGJXvwJyC6_0cyw1WQ-23" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="320" as="sourcePoint" />
+            <mxPoint x="390" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0zqGJXvwJyC6_0cyw1WQ-24" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="520" as="sourcePoint" />
+            <mxPoint x="400" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0zqGJXvwJyC6_0cyw1WQ-25" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="530" as="sourcePoint" />
+            <mxPoint x="400" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0zqGJXvwJyC6_0cyw1WQ-26" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="540" as="sourcePoint" />
+            <mxPoint x="400" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0zqGJXvwJyC6_0cyw1WQ-27" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="550" as="sourcePoint" />
+            <mxPoint x="400" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0zqGJXvwJyC6_0cyw1WQ-28" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="570" as="sourcePoint" />
+            <mxPoint x="390" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0zqGJXvwJyC6_0cyw1WQ-29" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="590" as="sourcePoint" />
+            <mxPoint x="400" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
