@@ -38,7 +38,7 @@
           <mxGeometry x="410" y="590" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="0zqGJXvwJyC6_0cyw1WQ-14" value="数据统计分析" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="410" y="660" width="90" height="50" as="geometry" />
+          <mxGeometry x="414" y="710" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="0zqGJXvwJyC6_0cyw1WQ-18" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -112,7 +112,7 @@
             <mxPoint x="400" y="680" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3wlWpdyKVoSvnEJDSDnV-2" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="3wlWpdyKVoSvnEJDSDnV-2" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.485;entryY=0.75;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="0zqGJXvwJyC6_0cyw1WQ-32">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="200" y="610" as="sourcePoint" />
             <mxPoint x="380" y="700" as="targetPoint" />
