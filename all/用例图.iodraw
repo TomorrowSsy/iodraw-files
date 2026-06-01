@@ -31,7 +31,7 @@
         <mxCell id="0zqGJXvwJyC6_0cyw1WQ-10" value="在线面试" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="410" y="240" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="0zqGJXvwJyC6_0cyw1WQ-12" value="招聘管理" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="0zqGJXvwJyC6_0cyw1WQ-12" value="岗位管理" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="410" y="520" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="0zqGJXvwJyC6_0cyw1WQ-13" value="面试管理" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -117,6 +117,9 @@
             <mxPoint x="200" y="610" as="sourcePoint" />
             <mxPoint x="380" y="700" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="3wlWpdyKVoSvnEJDSDnV-3" value="岗位管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="530" width="90" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
